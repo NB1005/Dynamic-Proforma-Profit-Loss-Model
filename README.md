@@ -14,14 +14,14 @@ In practice, teams found the model most useful when it was treated as an assumpt
 
 ### Previews:
 
-![P&L_Data_Entry](/pl_model_data_entry.png "P&L Model Data Entry")
+![P&L_Data_Entry](/pl_model_data_entry.png "P&L Scenario Data Entry")
 
-![P&L Compare](/pl_model_compare_view.png "P&L Model Compare")
+![P&L Compare](/pl_model_compare_view.png "Dynamic P&L Model Compare")
 
 **Files Included:**
 
-Project Compare P&L Finance Model- Github.xlsx - Fully Functional model that was used on different occasions
+Project Compare P&L Finance Model- Github.xlsx - fully functional model that was used on different occasions
 
 pl_model_compare_view.png - screenshot image of dynamic compare tab
 
-pl_image_example.png - screenshot image of example p&l statement
+pl_model_compare_view.png - screenshot image of one of the data entry tabs
