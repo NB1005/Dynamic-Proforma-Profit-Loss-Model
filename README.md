@@ -12,11 +12,14 @@ The model is designed to be *dynamic* and to follow a single, consistent scenari
 
 In practice, teams found the model most useful when it was treated as an assumption-driven planning tool: where inputs were unknown, the spreadsheet is intended to capture reasonable estimates and make those assumptions explicit. At the same time, several sections are built to incorporate known, confirmed values as they become available, including realized divestment proceeds and actual investment or one-time cash costs. This combination supports both early-stage forecasting and ongoing updates as the project progresses and better information is obtained.
 
+### Previews:
+
+![P&L Compare](/pl_model_compare_view.png "P&L Model Compare")
 
 **Files Included:**
 
 Project Compare P&L Finance Model- Github.xlsx - Fully Functional model that was used on different occasions
 
-cashflow_image_example.png - screenshot image of example cashflow statement
+pl_model_compare_view.png - screenshot image of dynamic compare tab
 
 pl_image_example.png - screenshot image of example p&l statement
