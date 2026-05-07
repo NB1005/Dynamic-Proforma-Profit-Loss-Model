@@ -14,6 +14,8 @@ In practice, teams found the model most useful when it was treated as an assumpt
 
 ### Previews:
 
+![P&L_Data_Entry](/pl_model_data_entry.png "P&L Model Data Entry")
+
 ![P&L Compare](/pl_model_compare_view.png "P&L Model Compare")
 
 **Files Included:**
